@@ -1,0 +1,12 @@
+produto vendido: tomate || quantidade vendida: 8 || data da venda: 2025-09-08 || total da venda: 56.0
+produto vendido: televisao || quantidade vendida: 1 || data da venda: 2025-09-08 || total da venda: 1500.0
+produto vendido: tomate || quantidade vendida: 3 || data da venda: 2025-09-08 || total da venda: 21.0
+produto vendido: Televisão || quantidade vendida: 1 || data da venda: 2025-09-08 || total da venda: 1500.0
+produto vendido: cereja || quantidade vendida: 1 || data da venda: 2025-09-08 || total da venda: 1.99
+produto vendido: Alho || quantidade vendida: 4 || data da venda: 2025-09-08 || total da venda: 60.0
+produto vendido: batata || quantidade vendida: 2 || data da venda: 2025-09-08 || total da venda: 4.0
+produto vendido: base || quantidade vendida: 2 || data da venda: 2025-09-09 || total da venda: 70.0
+produto vendido: tomate || quantidade vendida: 0 || data da venda: 2025-09-09 || total da venda: 0.0
+produto vendido: batata || quantidade vendida: 2 || data da venda: 2025-09-09 || total da venda: 18.0
+produto vendido: tomate || quantidade vendida: 0 || data da venda: 2025-09-09 || total da venda: 0.0
+produto vendido: tomate || quantidade vendida: 2 || data da venda: 2025-09-09 || total da venda: 4.0
