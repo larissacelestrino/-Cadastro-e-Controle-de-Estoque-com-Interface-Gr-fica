@@ -1,1 +1,1 @@
-Produto: tomate || Preço do produto: 2.00 || Quantidade em estoque: 3
+Produto: tomate || PreÃ§o do produto: 2.00 || Quantidade em estoque: 3
