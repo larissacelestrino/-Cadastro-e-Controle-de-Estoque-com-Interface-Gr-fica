@@ -1,0 +1,5 @@
+produto vendido: batata || quantidade vendida: 0 || data da venda: 2025-09-09 || total da venda: 0.0
+produto vendido: batata || quantidade vendida: 0 || data da venda: 2025-09-09 || total da venda: 0.0
+produto vendido: tomate || quantidade vendida: 2 || data da venda: 2025-09-09 || total da venda: 0.0
+produto vendido: alface || quantidade vendida: 9 || data da venda: 2025-09-10 || total da venda: 270.0
+produto vendido: macarrão || quantidade vendida: 2 || data da venda: 2025-09-11 || total da venda: 40.0
