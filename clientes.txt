@@ -1,0 +1,1 @@
+ Dados do cliente: CPF: 54966106800 || Nome completo: Larissa || Data de nascimento: 2025-09-17 || Telefone: 11972736701 || CEP: 13201005 || Endereço: Rua Quinze de Novembro, Centro, Jundiaí - SP
