@@ -1,0 +1,1 @@
+produto vendido: Batata || quantidade vendida: 8 || data da venda: 2025-09-17 || total da venda: 64.0 || Cliente vinculado: Larissa 
