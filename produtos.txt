@@ -1,4 +1,0 @@
-Produto: batata || Preço do produto: 0.0 || Quantidade em estoque: 0
-Produto: tomate || Preço do produto: 0.0 || Quantidade em estoque: 2
-Produto: alface || Preço do produto: 30.0 || Quantidade em estoque: 91
-Produto: macarrão || Preço do produto: 20.0 || Quantidade em estoque: 28
